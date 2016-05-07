@@ -1,23 +1,22 @@
-# wonderapp
+# Wonderapp School Management System using laravel 5.2
 
-Package to quickly add social login to laravel 5.2 Auth Scaffold
+Package  Wonder app School Management System laravel 5.2 
 
 ## Installation
 
 
-
-Step 1 : Install Composer dependency
+###Step 1 : Install Composer dependency
 
    composer require wonderapp/yellowapp
 
 
-Step 2 : Register the Service Provider
+###Step 2 : Register the Service Provider
 
    Wonderapp\Yellowapp\MyschoolServiceProvider::class,
 
 to providers array in *config/app.php*
 
-Step 4 : Install migrations
+###Step 4 : Install migrations
 
 run the following command: 'php artisan vendor:publish' to install migrations
 
