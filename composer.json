@@ -1,12 +1,13 @@
 {
     "name": "wonderapp/yellowapp",
-    "description": "schoolmanagent",
+    "description": "Wonderapp School Management System",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Arun Nair",
-            "email": "a4arun2010@gmail.com"
+            "email": "a4arun2010@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
